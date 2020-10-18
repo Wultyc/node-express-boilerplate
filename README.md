@@ -11,7 +11,7 @@ Boilerplate for node and express project
     ├───events		    -> application events
     ├───loaders		    -> components that loads with the application 
     ├───models		    -> application models
-    ├───node_modules	-> node modules
+    ├───node_modules	    -> node modules
     └───services	    -> business logic implementation 
 ```
 This structure is based on the article [Bulletproof node.js project architecture](https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf)
